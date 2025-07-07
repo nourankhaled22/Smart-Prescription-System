@@ -1,0 +1,1 @@
+ C:\\Users\\user\\StudioProjects\\smartprescription\\.dart_tool\\flutter_build\\06772eb85331899dfd39e10dda91b4f8\\native_assets.json: 
