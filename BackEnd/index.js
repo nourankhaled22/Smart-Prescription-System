@@ -42,7 +42,7 @@ app.use('/api/scan-prescription', ScanPrescriptionRoutes)
 app.use('/api/scan-medicine', ScanMedicineRoutes)
 
 ////////////////////////////////////////////
-
+////////////////////////////////////////////
 
 // Middleware to parse URL-encoded data
 app.use(express.urlencoded({ extended: true }));
