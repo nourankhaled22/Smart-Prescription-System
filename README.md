@@ -60,7 +60,7 @@ Following a structured Waterfall methodology, we moved from thorough requirement
 
 ## Contributions 🤝
 
-We welcome improvements, bug fixes, and ideas! Reach out or submit a pull request anytime.
+We welcome improvements, bug fixes, and ideas! Reach out or submit a pull request anytime
 
 ---
 
